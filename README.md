@@ -11,7 +11,6 @@
 
 [<img align="left" alt="haiarha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="haiarha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="haiarha | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/globe.svg" />][website]
 
 <br />
 
