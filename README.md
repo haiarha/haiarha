@@ -2,7 +2,7 @@
 
 ### I'm FrontEnd Developer.
 - 👨‍💻 I'm currently working at the [Networks](https://www.linkedin.com/company/ntwspro/), insurance company.
-- 🌱 I'm currently improoving my FrontEnd, English, Communication and Dev Collaboration skills.
+- 🌱 I'm currently improving my FrontEnd, English, Communication and Dev Collaboration skills.
 - 🏠 I live in Ukraine.
 - ⚡ My hobby is to play guitar and piano.
 - 👐 Allways glad to make new friends!
