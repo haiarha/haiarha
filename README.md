@@ -2,8 +2,8 @@
 
 ### I'm FrontEnd Developer.
 - 👨‍💻 I'm currently working at [MR Lab](https://www.linkedin.com/company/mr-lab/).
-- 🌱 I'm currently going from Front-end to Full-stack-frontend developer ;), English, Communication and Dev Collaboration skills.
-- 🏠 I live in Ukraine.
+- 🌱 I'm a Full Stack Developer ;).
+- 🏠 I'm from Ukraine and live in Portugal.
 - ⚡ My hobby is to play guitar and piano.
 - 👐 Allways glad to make new friends!
 
