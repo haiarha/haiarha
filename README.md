@@ -1,7 +1,6 @@
 ## 👋 Hi there, call me Vadym.
 
 ### I'm FrontEnd Developer.
-- 👨‍💻 I'm currently working at [MR Lab](https://www.linkedin.com/company/mr-lab/).
 - 🌱 I'm a Full Stack Developer ;).
 - 🏠 I'm from Ukraine and live in Portugal.
 - ⚡ My hobby is to play guitar and piano.
